@@ -2,20 +2,20 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
+  serializedVersion: 3
   tags: []
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Tube
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - 1
+  - 2
+  - 3
+  - 4
+  - Surface
   - 
   - 
   - 
@@ -41,3 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 1
+    uniqueID: 2424635075
+    locked: 0
+  - name: 2
+    uniqueID: 4183979027
+    locked: 0
+  - name: 3
+    uniqueID: 3757232199
+    locked: 0
+  - name: 4
+    uniqueID: 1833611385
+    locked: 0
+  - name: SurfaceBot
+    uniqueID: 3691250871
+    locked: 0
+  - name: SurfaceTop
+    uniqueID: 361264847
+    locked: 0
+  - name: top
+    uniqueID: 28444325
+    locked: 0
+  m_RenderingLayers:
+  - Default
